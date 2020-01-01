@@ -19,7 +19,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "browserslist": {
+  "browsersl": {
     "productn": [
       ">0.2%",
       "not dead",
